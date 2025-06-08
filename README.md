@@ -16,16 +16,16 @@ Read the dataset using Pandas.
        TF-IDF Vectorization with max 1000 features to transform text into numerical form.
 
 5. Label Encoding
-Map Product labels to integers.
 
+         Map Product labels to integers.
         Credit reporting → 0
         Debt collection → 1
         Consumer Loan → 2
         Mortgage → 3
 
 6. Model Training
-Train multiple models:
 
+       Train multiple models:
         Logistic Regression
         Decision Tree
         SVM (Support Vector Machine)
